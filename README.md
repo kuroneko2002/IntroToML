@@ -6,3 +6,4 @@
 - Use `git clone https://github.com/kuroneko2002/IntroToML.git` in that directory
 - Run `npm i` to install all packages this project required.
 - Run `npm start` to run the services.
+- Open web browser and get to the address localhost:3000
